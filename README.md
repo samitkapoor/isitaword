@@ -18,7 +18,6 @@ or run this in your terminal<br>
   flutter pub add isitaword
 ```
 
-<br>
 
 ## Usage
 
