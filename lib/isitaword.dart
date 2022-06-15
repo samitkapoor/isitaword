@@ -9,6 +9,8 @@ export 'package:isitaword/isitaword.dart';
 bool isItAWord(String word) {
   if (words.contains(word)) {
     return true;
+  } else if (w.contains(word)) {
+    return true;
   }
   return false;
 }

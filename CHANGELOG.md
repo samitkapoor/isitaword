@@ -9,3 +9,7 @@
 ## 0.0.3
 
 * Formatting Files
+
+## 0.0.4
+
+* Removing logical error
