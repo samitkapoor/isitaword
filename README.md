@@ -1,4 +1,6 @@
-A Flutter package that validates if the combination of letters form a word or not!<br><br>
+# isitaword
+
+A Flutter package that validates if the combination of letters forms a word or not!<br><br>
 
 <img width=350 src="https://github.com/samitkapoor/isitaword/blob/master/example/assets/preview.gif" />
 
