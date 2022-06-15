@@ -1,10 +1,10 @@
 name: isitaword
-description: A new Flutter package project.
+description: A Flutter package that validates if the combination of letters forms a word or not!
 version: 0.0.1
 homepage: https://github.com/samitkapoor/isitaword
 
 environment:
-  sdk: '>=2.18.0-178.0.dev <3.0.0'
+  sdk: '>=2.16.2 <3.0.0'
   flutter: ">=1.17.0"
 
 dependencies:
