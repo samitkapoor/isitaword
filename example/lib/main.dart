@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+
 import 'package:isitaword/isitaword.dart';
 
 void main() {
@@ -13,7 +14,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        colorScheme: ColorScheme.dark(),
+        colorScheme: const ColorScheme.dark(),
       ),
       home: const Homepage(),
     );
