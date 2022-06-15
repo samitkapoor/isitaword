@@ -1,7 +1,7 @@
 name: isitaword
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/samitkapoor/isitaword
 
 environment:
   sdk: '>=2.18.0-178.0.dev <3.0.0'
